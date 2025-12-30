@@ -1,0 +1,4 @@
+
+# Environment Requirements
+Microsoft Power BI Desktop (Latest Version)
+Data Source: [Spotify Dataset - CSV or API Export]
